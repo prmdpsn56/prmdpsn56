@@ -16,8 +16,6 @@ I am a Software Developer with a passion for Building Scalable Web Applications 
 - Frameworks: **[Frameworks]**
 - Tools & Platforms: **[Tools You Use]**
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prmdpsn56&show_icons=true&theme=radical)
 
 ## ✍️ Latest Blog Posts
 - [Blog Post 1](https://yourblog.com/post1)
