@@ -1,11 +1,11 @@
 ![Background Image](https://example.com/background.jpg)
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Paramdeep Singh!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 
 ## 🌟 About Me
-I am a **[Your Role/Profession]** with a passion for **[Your Skills or Interests]**. I have experience working with **[Technologies You Use]** and enjoy building **[Type of Projects You Work On]**. 
+I am a Software Developer with a passion for Building Scalable Web Applications with a great interface. I
 
 - 🚀 Currently working on: **[Your Current Project]**
 - 🎯 Goals: **[Your Career Goals]**
